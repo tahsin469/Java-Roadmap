@@ -1,1 +1,3 @@
+ Real World enterprise web application from scratch using modern Java frameworks in one integration: Spring Framework + Spring Webflow + Spring Security + JPA (Hibernate) + JSF 2.0 (PrimeFaces) + Apache Maven 2 + Apache Tomcat + Oracle RDBMS + Eclipse IDE. 
 
+ Integrate a SOAP Web Services and XML JAXB marshaling/unmarshaling into application .
