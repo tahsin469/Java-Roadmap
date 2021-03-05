@@ -8,4 +8,4 @@
 
 ### https://www.youtube.com/watch?v=L4sOI8ffsqs&list=PLGRDMO4rOGcOirWnWTOyBWguwxgeXlxYo
 
-### https://github.com/s4kibs4mi/java-developer-roadmap
+### https://www.youtube.com/watch?v=sK3KSe4DdCY
